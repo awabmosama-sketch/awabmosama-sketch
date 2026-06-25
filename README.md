@@ -48,8 +48,8 @@ An aspiring Software Engineer specializing in backend systems, containerized env
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awab-Al-Bermawy&show_icons=true&theme=tokyonight" alt="Awab's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awab-Al-Bermawy&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight" alt="Awab's GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabmosama-sketch&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
 </p>
 
 ---
