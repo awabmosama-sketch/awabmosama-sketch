@@ -1,4 +1,6 @@
-# Hi, I'm Awab Al Bermawy 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=50&fontColor=7aa2f7&animation=fadeIn" alt="Developer Banner" />
+</p>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -18,17 +20,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 🤖 Autonomous Welcome Routine
-
-<p align="left">
-  <!-- Verified Animated 3D Waving Robot Endpoint -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Smilies/Robot.gif" alt="Waving Mechanical Robot" width="120px" height="120px"/>
-</p>
-
-> `[SYS-LOG]: Greeting routine initiated. Welcome to my production codebase environment.`
 
 ---
 
