@@ -1,5 +1,3 @@
-# Hi, I'm Awab Al Bermawy 👋
-
 <p align="center">
   <!-- Restored Valid Space-Themed Banner with Twinkling Text Routine -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=50&fontColor=7aa2f7&animation=twinkling" alt="Space Tech Banner" />
