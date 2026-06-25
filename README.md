@@ -24,7 +24,7 @@
 ### 🤖 Autonomous Welcome Routine
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzY2FmYjZkMmEwYmFlYzg0M2ZkM2NmNjA3YjE0YThlZDYwMmU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3orif6S660D5987Mha/giphy.gif" alt="AI Robot Greeting" width="160px"/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="AI Robot Greeting" width="130px" height="130px"/>
 </p>
 
 > `[SYS-LOG]: Greeting routine initiated. Welcome to my production codebase environment.`
@@ -66,7 +66,7 @@
 > A comprehensive web application designed for student tracking and educational record architecture. Developed utilizing modern **HTML5, CSS3,** and advanced AI-assisted full-stack workflows to optimize database layouts.
 
 #### 📚 [BookWise](https://github.com/awabmosama-sketch) — AI-Accelerated Library Tools
-> A backend-focused digital asset tool engineered with AI automation to cleanly index, search, and manage complex internal inventory transactions.
+> A backend-focused digital asset tool engineered with AI-automation to cleanly index, search, and manage complex internal inventory transactions.
 
 ---
 
