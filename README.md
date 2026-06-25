@@ -41,10 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabmosama-sketch&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awabmosama-sketch&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
-</p>
-
 ---
 
 ### 🚀 Featured Production Architectures
