@@ -1,6 +1,6 @@
 # Hi, I'm Awab Al Bermawy 👋
 
-An aspiring Software Engineer specializing in backend systems, containerized environments, and autonomous AI agents. I focus on building robust architecture, designing scalable APIs, and engineering intelligent workflows.
+🚀 An aspiring **Software Engineer** specializing in robust backend systems 🛠️, containerized environments 🐳, and autonomous Agentic AI 🤖. I focus on architecting clean code, designing high-performance scalable APIs ⚡, and engineering intelligent digital workflows 💻.
 
 ---
 
@@ -40,17 +40,17 @@ An aspiring Software Engineer specializing in backend systems, containerized env
 
 ### 🚀 Featured Production Architectures
 
-#### 🎓 [EduTrack](https://github.com/awabmosama-sketch) — Full-Stack Student Management System
-> A comprehensive, professional web application designed to handle educational tracking, student records, and operational workflows smoothly. Built entirely from scratch to handle heavy administrative data architecture.
+#### ⚖️ [McCluskey Law CLI](https://github.com/awabmosama-sketch) — *Built From Scratch*
+> A pure standalone Command Line Interface engine engineered entirely from scratch without AI assistance. Implements exact logical minimization algorithms and rigorous structural parameters within a performance-focused terminal UI.
 
-#### ⚖️ [McCluskey Law CLI](https://github.com/awabmosama-sketch) — Independent CLI Logic Engine
-> A standalone Command Line Interface application engineered entirely independently. Implements logical minimization rules (Quine-McCluskey logic reduction parameters) or structured transaction routing inside a performance-focused terminal interface.
+#### 🕹️ [Logix Arcade](https://github.com/awabmosama-sketch) — *Built From Scratch*
+> A collaborative, native interactive gaming suite designed completely from the ground up using structural JavaFX patterns and custom event-driven logical routing.
 
-#### 🕹️ [Logix Arcade](https://github.com/awabmosama-sketch) — Modular JavaFX Suite
-> A collaborative, event-driven interactive gaming workspace built with structural JavaFX design patterns.
+#### 🎓 [EduTrack](https://github.com/awabmosama-sketch) — AI-Accelerated Management System
+> A comprehensive web application designed for student tracking and educational record architecture. Developed utilizing advanced AI-assisted full-stack workflows to optimize database layouts and modern operational features.
 
-#### 📚 [BookWise](https://github.com/awabmosama-sketch) — Digital Library System
-> A backend-focused transactional management tool designed to cleanly index, search, and track physical inventories.
+#### 📚 [BookWise](https://github.com/awabmosama-sketch) — AI-Accelerated Library Tools
+> A backend-focused digital asset tool engineered with AI automation to cleanly index, search, and manage complex internal inventory transactions.
 
 ---
 
