@@ -24,20 +24,7 @@
 ### 🤖 Autonomous Welcome Routine
 
 <p align="left">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="120" height="120">
-    <style>
-      @keyframes wave {
-        0% { transform: rotate(0deg); transform-origin: bottom center; }
-        25% { transform: rotate(-12deg); transform-origin: bottom center; }
-        75% { transform: rotate(12deg); transform-origin: bottom center; }
-        100% { transform: rotate(0deg); transform-origin: bottom center; }
-      }
-      .robot-wave {
-        animation: wave 1.8s ease-in-out infinite;
-      }
-    </style>
-    <text x="10" y="80" font-size="75" class="robot-wave">🤖</text>
-  </svg>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Smilies/Robot.gif" alt="Waving AI Robot" width="120px" height="120px"/>
 </p>
 
 > `[SYS-LOG]: Greeting routine initiated. Welcome to my production codebase environment.`
