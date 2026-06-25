@@ -24,7 +24,8 @@
 ### 🤖 Autonomous Welcome Routine
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Smilies/Robot.gif" alt="Waving AI Robot" width="120px" height="120px"/>
+  <!-- Verified Animated 3D Waving Robot Endpoint -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Smilies/Robot.gif" alt="Waving Mechanical Robot" width="120px" height="120px"/>
 </p>
 
 > `[SYS-LOG]: Greeting routine initiated. Welcome to my production codebase environment.`
