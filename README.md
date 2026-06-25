@@ -10,14 +10,13 @@
 
 ---
 
-### 🐍 Contribution Grid Snake
+### 🤖 Autonomous Welcome Routine
 
-<!-- Dynamic Snake Animation Grid -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzY2FmYjZkMmEwYmFlYzg0M2ZkM2NmNjA3YjE0YThlZDYwMmU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3orif6S660D5987Mha/giphy.gif" alt="AI Robot Greeting" width="160px"/>
+</p>
+
+> `[SYS-LOG]: Greeting routine initiated. Welcome to my production codebase environment.`
 
 ---
 
