@@ -10,6 +10,17 @@
 
 ---
 
+### 🐍 Contribution Grid Snake
+
+<!-- Dynamic Snake Animation Grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/awabmosama-sketch/awabmosama-sketch/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 🤖 Autonomous Welcome Routine
 
 <p align="left">
