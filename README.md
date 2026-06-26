@@ -70,7 +70,7 @@
 ---
 
 ### ⚡ Connect with Me
-*   **LinkedIn:** [linkedin.com/in/awab-al-bermawy-9b4673407](https://www.linkedin.com/in/awab-al-bermawy-9b4673407)
+*   **LinkedIn:** [linkedin.com/in/awab-al-bermawy-9b4673407](www.linkedin.com/in/awab-al-bermawy)
 *   **Kasbu Bio:** [kasbu.bio/awabmosama](https://kasbu.bio/awabmosama)
 *   **Email:** awabmosama@gmail.com
 
