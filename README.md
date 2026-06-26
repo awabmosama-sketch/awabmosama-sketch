@@ -71,6 +71,7 @@
 
 ### ⚡ Connect with Me
 *   **LinkedIn:** [linkedin.com/in/awab-al-bermawy-9b4673407](https://www.linkedin.com/in/awab-al-bermawy-9b4673407)
+*   **Kasbu Bio:** [kasbu.bio/awabmosama](https://kasbu.bio/awabmosama)
 *   **Email:** awabmosama@gmail.com
 
 *“Simplicity is the soul of efficiency.” — Austin Freeman*
