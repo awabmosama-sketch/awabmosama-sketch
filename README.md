@@ -1,3 +1,5 @@
+# Hi, I'm Awab Al Bermawy 👋
+
 <p align="center">
   <!-- Restored Valid Space-Themed Banner with Twinkling Text Routine -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=50&fontColor=7aa2f7&animation=twinkling" alt="Space Tech Banner" />
@@ -34,7 +36,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Agentic%20AI-🤖-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Agentic%20AI-🤖-blue?style=for-the-badge" />
 
 ---
 
