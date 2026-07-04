@@ -1,18 +1,11 @@
 <p align="center">
-  <!-- Valid Space-Themed Banner with Twinkling Text Routine -->
+  <!-- Space-Themed Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=50&fontColor=7aa2f7&animation=twinkling" alt="Space Tech Banner" />
 </p>
 
 <p align="left">
-  <!-- Replaced dead git.io shortcut link with direct stable repo path -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=600&lines=Software+Engineer;Backend+Architect+%7C+FastAPI+%E2%9A%A1;Java+GUIs+%7C+JavaFX+%E2%80%A2+Swing;Full+Stack+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+Node;Agentic+AI+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="left">
-  <!-- Bulletproof Profile Counter (Bypasses proxy caching issues perfectly) -->
-  <img src="https://profile-counter.glitch.me/awabmosama-sketch/count.svg" alt="Profile Views Counter" />
+  <!-- Clean, Static Typing Interface Reference -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=600&lines=Software+Engineer;Backend+Architect+%7C+FastAPI+%E2%9A%A1;Java+GUIs+%7C+JavaFX+%E2%80%A2+Swing;Full+Stack+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+Node;Agentic+AI+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 🚀 An aspiring **Software Engineer** specializing in robust backend systems 🛠️, native desktop interfaces 🖥️, containerized environments 🐳, and autonomous Agentic AI 🤖. I focus on architecting clean code, designing high-performance scalable APIs ⚡, and engineering intelligent digital workflows 💻.
@@ -32,21 +25,12 @@
 
 ### 🛠️ Technical Ecosystem
 
-⚙️ **Languages & Data Interoperability**
-<br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br />
-
-🖥️ **Frameworks & Toolkits**
-<br />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-🚀-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Swing-☕-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Agentic%20AI-🤖-blue?style=for-the-badge" />
-
-<br />
-
-🎛️ **IDEs & Workspace Tools**
-<br />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+| Category | Tech Stack & Tooling |
+| :--- | :--- |
+| **Languages & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Frameworks & Architecture** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-🚀-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Swing-☕-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Agentic%20AI-🤖-blue?style=flat-square" /> |
+| **IDEs & Workspaces** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
 
 ---
 
@@ -55,16 +39,6 @@
 *   **Arabic:** 🗣️ Mother Tongue
 *   **Urdu:** 🎙️ Native Fluency
 *   **English:** 💼 Professional Working Proficiency
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <!-- High-availability alternative cards optimized with cache-bursting parameters to force GitHub proxy refreshes -->
-  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight&kill_cache=true" alt="Awab's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awabmosama-sketch&theme=tokyonight&kill_cache=true" alt="GitHub Streak Stats" height="150px"/>
-</p>
 
 ---
 
