@@ -1,12 +1,20 @@
+# Hi, I'm Awab Al Bermawy 👋
+
 <p align="center">
-  <!-- Restored Valid Space-Themed Banner with Twinkling Text Routine -->
+  <!-- Valid Space-Themed Banner with Twinkling Text Routine -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=50&fontColor=7aa2f7&animation=twinkling" alt="Space Tech Banner" />
 </p>
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
+  <!-- Replaced dead git.io shortcut link with direct stable repo path -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=600&lines=Software+Engineer;Backend+Architect+%7C+FastAPI+%E2%9A%A1;Java+GUIs+%7C+JavaFX+%E2%80%A2+Swing;Full+Stack+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+Node;Agentic+AI+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="left">
+  <!-- Automated High-Availability Profile Views Counter Badge -->
+  <img src="https://komarev.com/ghvc/?username=awabmosama-sketch&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 🚀 An aspiring **Software Engineer** specializing in robust backend systems 🛠️, native desktop interfaces 🖥️, containerized environments 🐳, and autonomous Agentic AI 🤖. I focus on architecting clean code, designing high-performance scalable APIs ⚡, and engineering intelligent digital workflows 💻.
@@ -38,17 +46,26 @@
 
 <br />
 
-🎛️ **IDEs & Tools**
+🎛️ **IDEs & Workspace Tools**
 <br />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+### 🌐 Linguistic Proficiency
+
+*   **Arabic:** 🗣️ Mother Tongue
+*   **Urdu:** 🎙️ Native Fluency
+*   **English:** 💼 Professional Working Proficiency
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight" alt="Awab's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabmosama-sketch&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
+  <!-- Refreshed Analytics Endpoints with Force-Cache Evasion Settings -->
+  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight&locale=en&cache_seconds=86400" alt="Awab's GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabmosama-sketch&layout=compact&theme=tokyonight&locale=en&cache_seconds=86400" alt="Top Languages" height="150px"/>
 </p>
 
 ---
