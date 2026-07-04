@@ -1,5 +1,3 @@
-# Hi, I'm Awab Al Bermawy 👋
-
 <p align="center">
   <!-- Valid Space-Themed Banner with Twinkling Text Routine -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=50&fontColor=7aa2f7&animation=twinkling" alt="Space Tech Banner" />
@@ -13,8 +11,8 @@
 </p>
 
 <p align="left">
-  <!-- Automated High-Availability Profile Views Counter Badge -->
-  <img src="https://komarev.com/ghvc/?username=awabmosama-sketch&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
+  <!-- Bulletproof Profile Counter (Bypasses proxy caching issues perfectly) -->
+  <img src="https://profile-counter.glitch.me/awabmosama-sketch/count.svg" alt="Profile Views Counter" />
 </p>
 
 🚀 An aspiring **Software Engineer** specializing in robust backend systems 🛠️, native desktop interfaces 🖥️, containerized environments 🐳, and autonomous Agentic AI 🤖. I focus on architecting clean code, designing high-performance scalable APIs ⚡, and engineering intelligent digital workflows 💻.
@@ -63,9 +61,9 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <!-- Refreshed Analytics Endpoints with Force-Cache Evasion Settings -->
-  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight&locale=en&cache_seconds=86400" alt="Awab's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabmosama-sketch&layout=compact&theme=tokyonight&locale=en&cache_seconds=86400" alt="Top Languages" height="150px"/>
+  <!-- High-availability alternative cards optimized with cache-bursting parameters to force GitHub proxy refreshes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight&kill_cache=true" alt="Awab's GitHub Stats" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awabmosama-sketch&theme=tokyonight&kill_cache=true" alt="GitHub Streak Stats" height="150px"/>
 </p>
 
 ---
