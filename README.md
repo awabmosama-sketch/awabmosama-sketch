@@ -58,6 +58,21 @@
 
 ---
 
+### 📊 Repository Engine Metrics & Traffic
+
+<p align="left">
+  <!-- Dynamic View Counter API with Tokyo Night color adjustments -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawabmosama-sketch&count_bg=%237aa2f7&title_bg=%231a1b26&title=PROFILE+VIEWS&edge_flat=false&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="left">
+  <!-- Combined Git status and language card grid elements -->
+  <img src="https://github-readme-stats.vercel.app/api?username=awabmosama-sketch&show_icons=true&theme=tokyonight&locale=en" alt="Awab's GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabmosama-sketch&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="150px"/>
+</p>
+
+---
+
 ### ⚡ Connect with Me
 *   **LinkedIn:** [linkedin.com/in/awab-al-bermawy](https://www.linkedin.com/in/awab-al-bermawy)
 *   **Kasbu Bio:** [kasbu.bio/awabmosama](https://kasbu.bio/awabmosama)
