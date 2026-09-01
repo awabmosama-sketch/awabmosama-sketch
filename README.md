@@ -52,13 +52,13 @@
 
 ### 🚀 Featured Production Architectures
 
-| ⚖️ [McCluskey Law CLI](https://github.com/awabmosama-sketch) | 🕹️ [Logix Arcade](https://github.com/awabmosama-sketch) |
+| 🤖 [Code-Auditor](https://github.com/awabmosama-sketch/Code-Auditor) | 🏛️ [Titan Hospital Management System](https://github.com/awabmosama-sketch/Titan-Hospital-Management-System) |
 | :--- | :--- |
-| **Built From Scratch**<br>A pure standalone CLI engine engineered entirely from scratch without AI assistance. Implements exact logical minimization algorithms and rigorous structural parameters within a performance-focused terminal UI. | **Built From Scratch**<br>A collaborative, native interactive gaming suite designed completely from the ground up using structural **JavaFX** and custom event-driven logical routing. |
+| **LangGraph & Multi-Agent AI**<br>Automated code review pipeline using **LangGraph** and **Gemini** (Scanner → Refactor → Docs) to detect vulnerabilities, optimize code, and auto-generate PEP8 documentation. | **Enterprise FastAPI Backend**<br>SRS-compliant backend built with **FastAPI**, **SQLAlchemy**, **Pydantic**, and **PostgreSQL** following Clean Architecture principles and strict domain boundaries. |
 
-| 🎓 [EduTrack](https://github.com/awabmosama-sketch) | 📚 [BookWise](https://github.com/awabmosama-sketch) |
+| 🔮 [OmniParse-Agent](https://github.com/awabmosama-sketch/OmniParse-Agent) | 💼 [AI-Powered Multi-Agent Job Finder](https://github.com/awabmosama-sketch/AI-Powered-Multi-Agent-Job-Finder) |
 | :--- | :--- |
-| **AI-Accelerated Management**<br>A comprehensive web application designed for student tracking and educational record architecture. Developed utilizing modern **HTML5, CSS3,** and advanced AI-assisted full-stack workflows. | **AI-Accelerated Library Tools**<br>A backend-focused digital asset tool engineered with AI-automation to cleanly index, search, and manage complex internal inventory transactions. |
+| **Multimodal Agentic Pipeline**<br>Intelligent document processing engine routing multi-format files (PDF, DOCX, Images, Audio) to **Gemini** for intent-driven structured data extraction. | **Resume-Driven AI Job Discovery**<br>Multi-agent search platform combining real-time web scraping, relevance scoring, and duplicate removal algorithms into a Streamlit dashboard. |
 
 ---
 
