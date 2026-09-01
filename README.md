@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Space-Themed Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=outline&color=7aa2f7&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=48&fontColor=7aa2f7&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Architect&descSize=16&descAlignY=65" alt="Neon Outline Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:24283b&height=220&section=header&text=Awab%20Al%20Bermawy&fontSize=48&fontColor=7aa2f7&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20AI%20Architect&descSize=16&descAlignY=62" alt="Gradient Wave Banner" />
 </p>
   
   <br><br>
