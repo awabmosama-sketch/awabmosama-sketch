@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Space-Themed Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161e,100:24283b&height=180&section=header&text=Awab%20Al%20Bermawy&fontSize=46&fontColor=c0caf5&animation=twinkling&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20ARCHITECT&descSize=14&descAlignY=65&descColor=7aa2f7" width="100%" alt="Header Banner" />
+  <img src="./banner.svg" alt="Classic Filigree Header Banner" width="100%" />
 </p>
   
   <br><br>
