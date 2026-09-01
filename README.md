@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Space-Themed Header Banner -->
 <p align="center">
-  <img src="./banner.svg" alt="Classic Filigree Header Banner" width="100%" />
+  <img src="./gemini-svg.svg" alt="Awab Al Bermawy Header Banner" width="100%" />
 </p>
   
   <br><br>
